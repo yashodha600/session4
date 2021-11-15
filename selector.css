@@ -1,0 +1,23 @@
+h1{
+    
+    color:blue;
+    font: 3em sans-serif;
+
+}
+ 
+p{
+    font-size: 30px;
+   text-shadow:blueviolet 0 -1px ;
+    }
+    span{
+        font-size: 200%;
+    }
+    h2{
+        color:white;
+      background-color:blue;
+     font: 2em sans-serif;
+     padding: 10px;
+     margin-left: 0px;
+     margin-right: 0px;
+     
+    }
